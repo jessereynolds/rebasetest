@@ -3,4 +3,4 @@ This text is added 19:56 16 April 2012
 Here's a blurb. I'm roughly following the rebase page on the git community doco site - http://book.git-scm.com/4_rebasing.html - what I find confusing about that page is they seem to be using 'origin' as the name of a branch rather than a remote, which I find confusing.
 
 Here's some text I'm adding in rebasetest, without having done a pull first, so I'll need to rebase in a while.
-
+And here's a bit more from the rebasetest workarea.
